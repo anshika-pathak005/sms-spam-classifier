@@ -41,10 +41,15 @@ sms-spam-classifier/
 ## 📷 Screenshots  
 
 ### 🔹 Home Page  
-![Screenshot1](LINK_TO_IMAGE)  
+<p float="left">
+  <img src="img/home-.jpg" width="45%"/>
+</p> 
 
 ### 🔹 Prediction Example  
-![Screenshot2](LINK_TO_IMAGE)  
+<p float="left">
+  <img src="img/not-spam.jpg" width="45%" />
+  <img src="img/spam.jpg" width="45%" />
+</p> 
 
 
 ## 🏗️ How to Run Locally  
