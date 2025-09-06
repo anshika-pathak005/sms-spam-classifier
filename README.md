@@ -4,7 +4,7 @@ A **Machine Learning based Spam Classifier** that predicts whether a given SMS/E
 Built as a practice project while learning Machine Learning.
 
 ## 🚀 Live Demo  
-👉 [Click Here to Try](https://book-recommender-381m.onrender.com)  
+👉 [Click Here to Try](https://sms-spam-classifier007.streamlit.app/)  
 
 ## 🌟 Features  
 - 📝 **Custom Text Preprocessing**  
